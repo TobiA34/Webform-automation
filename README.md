@@ -8,6 +8,9 @@ Before running the tests, ensure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - [Playwright](https://playwright.dev/)
 
+## Test Doc
+https://docs.google.com/spreadsheets/d/10l0qai4wLar7rE-pAyEijbx6qWUJdeqDQgqxw5sl894/edit?usp=sharing
+
 ## Installation
 1. Clone the repository:
    ```sh
