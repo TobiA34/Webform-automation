@@ -1,4 +1,4 @@
-# Web form automation
+# Web Form Automation
 
 ## Overview
 This repository contains Playwright test cases to validate the login functionality of the **SauceDemo** application. The tests cover valid and invalid login scenarios to ensure proper authentication handling.
